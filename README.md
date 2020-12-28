@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Full Stack Web Developer who have recently graduated from Lambda School. My goal is to gain a position as an entry-level Software Developer which would allow me to fully utilize my current full-stack web development skills. I am most proficient with coding front-end with the React framework, but am always willing to learn new frameworks. Similarly, I am most proficient with Express for building the back-end. 
+
 <!--
 **dangnlu18/dangnlu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
